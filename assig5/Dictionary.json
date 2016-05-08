@@ -1,0 +1,1 @@
+{"copac":["arbore","arbust"],"bucuros":["fericit","vesel"],"fericit":["bucuros","vesel"],"vesel":["bucuros","fericit"],"arbore":["copac","arbust"],"arbust":["copac","arbore"]}
